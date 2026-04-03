@@ -13,12 +13,7 @@ task-manager/
 └── README.md
 ```
 
-## 🚀 Installation
 
-1. Cloner le dépôt dans votre dossier `htdocs` (XAMPP) ou `www` (WAMP)  
-2. Créer une base de données MySQL nommée `task_manager`  
-3. Configurer `db.php` (host, user, password)  
-4. Ouvrir `http://localhost/task-manager/`
 
 > La table `tasks` est créée **automatiquement** au premier chargement.
 
